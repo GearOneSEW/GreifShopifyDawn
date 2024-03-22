@@ -130,21 +130,21 @@
 
     ],
     "blocks": {
+      "558381514691908246": {
+        "type": "shopify:\/\/apps\/volumeboost-volume-discounts\/blocks\/app-embed\/25745434-52e7-4378-88f1-890df18a0110",
+        "disabled": false,
+        "settings": {
+        }
+      },
       "17920835415960095625": {
         "type": "shopify:\/\/apps\/swatch-king-variants-options\/blocks\/variant-swatch-king\/0850b1e4-ba30-4a0d-a8f4-f9a939276d7d",
         "disabled": false,
         "settings": {
           "enable": true,
           "alignment": "left",
-          "swatch_location": "After image",
+          "swatch_location": "After price",
           "switch_on_hover": true,
           "preselect_variant": false
-        }
-      },
-      "558381514691908246": {
-        "type": "shopify:\/\/apps\/volumeboost-volume-discounts\/blocks\/app-embed\/25745434-52e7-4378-88f1-890df18a0110",
-        "disabled": false,
-        "settings": {
         }
       }
     },
